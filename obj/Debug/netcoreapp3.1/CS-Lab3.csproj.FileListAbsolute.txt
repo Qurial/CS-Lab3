@@ -1,0 +1,13 @@
+C:\Users\RedmiBook\source\repos\CS-Lab3\CS-Lab3\bin\Debug\netcoreapp3.1\CS-Lab3.exe
+C:\Users\RedmiBook\source\repos\CS-Lab3\CS-Lab3\bin\Debug\netcoreapp3.1\CS-Lab3.deps.json
+C:\Users\RedmiBook\source\repos\CS-Lab3\CS-Lab3\bin\Debug\netcoreapp3.1\CS-Lab3.runtimeconfig.json
+C:\Users\RedmiBook\source\repos\CS-Lab3\CS-Lab3\bin\Debug\netcoreapp3.1\CS-Lab3.runtimeconfig.dev.json
+C:\Users\RedmiBook\source\repos\CS-Lab3\CS-Lab3\bin\Debug\netcoreapp3.1\CS-Lab3.dll
+C:\Users\RedmiBook\source\repos\CS-Lab3\CS-Lab3\bin\Debug\netcoreapp3.1\CS-Lab3.pdb
+C:\Users\RedmiBook\source\repos\CS-Lab3\CS-Lab3\obj\Debug\netcoreapp3.1\CS-Lab3.csprojAssemblyReference.cache
+C:\Users\RedmiBook\source\repos\CS-Lab3\CS-Lab3\obj\Debug\netcoreapp3.1\CS-Lab3.AssemblyInfoInputs.cache
+C:\Users\RedmiBook\source\repos\CS-Lab3\CS-Lab3\obj\Debug\netcoreapp3.1\CS-Lab3.AssemblyInfo.cs
+C:\Users\RedmiBook\source\repos\CS-Lab3\CS-Lab3\obj\Debug\netcoreapp3.1\CS-Lab3.csproj.CoreCompileInputs.cache
+C:\Users\RedmiBook\source\repos\CS-Lab3\CS-Lab3\obj\Debug\netcoreapp3.1\CS-Lab3.dll
+C:\Users\RedmiBook\source\repos\CS-Lab3\CS-Lab3\obj\Debug\netcoreapp3.1\CS-Lab3.pdb
+C:\Users\RedmiBook\source\repos\CS-Lab3\CS-Lab3\obj\Debug\netcoreapp3.1\CS-Lab3.genruntimeconfig.cache
